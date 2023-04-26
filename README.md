@@ -14,7 +14,7 @@ This means that node E will wait for the execution of nodes A, B, C, and D to co
 Similarly, Node B will wait for node A to complete. Nodes F and G will not wait for any node
 to complete, so they should be executed immediately.
 
-<p style="text-align:center"><img src="example.jpeg"></p>
+<p align="center"><img src="example.jpeg"></p>
 
 ### How to run
 
