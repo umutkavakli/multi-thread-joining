@@ -5,7 +5,7 @@ According to given input file, program creates threads including some rules. For
 
 <b>A,B,C,D->E
 <br>A->B
-A,D->C
+<br>A,D->C
 <br>F
 <br>G</b>
 
